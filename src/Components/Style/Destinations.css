@@ -1,0 +1,20 @@
+.dest{
+    width: 100%;
+}
+
+.dest .dest1{
+    text-align: center;
+    padding: 4rem;
+    background-color: #E9ECEF;
+}
+
+.dest .dest2{
+    width: 80%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 0 auto;
+    gap: 20px;
+}

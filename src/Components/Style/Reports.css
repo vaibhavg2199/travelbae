@@ -1,0 +1,26 @@
+.report-main{
+    width: 100%;
+}
+
+
+.report-container{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.rc1{
+    margin-top: 2rem;
+}
+
+.rc2-1 p{
+    font-size: 20px;
+}
+
+.rc2-1{
+    border: 1px solid gray;
+    padding: 15px;
+    margin-bottom: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 3px;
+}
